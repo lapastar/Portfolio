@@ -1,0 +1,146 @@
+*{
+    font-family: Sarabun;
+}
+header{
+    margin: 5%;
+}
+.cloud{
+    text-align: center;
+}
+#cloud{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.land{
+    text-align: center;
+}
+#land{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.coding{
+    text-align: center;
+}
+#coding{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.critical{
+    text-align: center;
+}
+#critical{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.Q{
+    text-align: center;
+}
+#Q{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.trade{
+    text-align: center;
+}
+#trade{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.KEngineer{
+    text-align: center;
+}
+#KEngineer{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.science{
+    text-align: center;
+}
+#science{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.sing{
+    text-align: center;
+}
+#sing{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+.DDay{
+    text-align: center;
+}
+#DDay{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}

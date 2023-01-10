@@ -1,0 +1,17 @@
+*{
+    font-family: Sarabun;
+}
+header{
+    margin: 5% 20% 5% 20%;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+}
+p{
+    text-align: justify;
+}

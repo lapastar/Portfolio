@@ -1,0 +1,101 @@
+*{
+    font-family: Sarabun;
+}
+header::before{
+    content: "";
+    background: url('img/เก้าอี้.jpg') no-repeat center center/cover;
+    background-attachment: scroll;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.5;
+}
+.สารบัญ{
+    font-size: 3rem;
+    padding: 2% 10%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    margin-right: 5%;
+    color: black;
+    text-shadow: 3px 3px 1px white;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    height: 90vh;
+}
+a:visited{
+    background-color:#E45207;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: #EB9061;
+    color: white;
+    text-decoration: none;
+}
+a:active{
+    background-color:#E45207;
+    color: white;
+}
+.box1{
+    font-size: larger;
+    text-decoration: none;
+    background-color:#E45207;
+    color: white;
+    padding: 2% 10%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 1px whitesmoke;
+}
+.box2{
+    font-size: larger;
+    text-decoration: none;
+    text-align: center;
+    background-color:#E45207;
+    color: white;
+    padding: 2% 5%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 1px whitesmoke;
+}
+.box3{
+    font-size: larger;
+    text-decoration: none;
+    background-color:#E45207;
+    color: white;
+    padding: 2% 10%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 1px whitesmoke;
+}
+.box4{
+    margin-bottom: 5%;
+    font-size: larger;
+    text-decoration: none;
+    background-color:#E45207;
+    color: white;
+    padding: 2% 10%;
+    display: flex;
+    justify-content: center;
+    margin-left: 60%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 1px whitesmoke;
+}

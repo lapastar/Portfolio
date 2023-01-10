@@ -1,0 +1,48 @@
+*{
+    font-family: Sarabun;
+}
+header{
+    margin: 5%;
+}
+.acc{
+    text-align: center;
+}
+#acc{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.econ{
+    text-align: center;
+}
+#econ{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+.math{
+    text-align: center;
+}
+#math{
+    color: white;
+    background-color: #E45207;
+    box-shadow: 3px 3px 1px #EB9061;
+    border-radius: 10px;
+    padding: 0.75rem 2rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 27%;
+    margin-right: 27%;
+}
